@@ -1,4 +1,6 @@
 h1 {
   font-family: georgia;
   color: red;
+  font-size: 100px;
+  font-weight:bold;
 }
